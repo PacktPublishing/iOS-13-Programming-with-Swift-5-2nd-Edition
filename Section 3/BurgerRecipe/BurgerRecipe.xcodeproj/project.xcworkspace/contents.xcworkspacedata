@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/gregor/Documents/Personal/work/Packt/Course/2/BurgerRecipe/BurgerRecipe/FirstViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/gregor/Documents/Personal/work/Packt/Course/2/BurgerRecipe/BurgerRecipe/SecondViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>

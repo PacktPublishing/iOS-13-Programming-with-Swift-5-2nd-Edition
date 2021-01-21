@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/ios-13-programming-with-swift-5-2nd-edition-second-edition-video/9781838984243)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # iOS-13-Programming-with-Swift-5-2nd-Edition [Video]
 This is the code repository for [ iOS-13-Programming-with-Swift-5-2nd-Edition [Video]](https://www.packtpub.com/mobile/ios-13-programming-with-swift-5-2nd-edition-second-edition-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course

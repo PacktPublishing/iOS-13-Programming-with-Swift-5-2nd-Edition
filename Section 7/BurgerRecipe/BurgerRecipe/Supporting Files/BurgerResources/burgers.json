@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Veggie Burger",
+        "ingredients": "Guacamole,Tomatoes,Onions,Quinoa,Beetroot Pesto",
+        "imageName": "BurgerResources/veggie_burger.jpg",
+        "thumbnailName": "BurgerResources/thumbnail_veggie_burger.jpg",
+        "type": "vegetarian"
+    },
+    {
+        "name": "Southwestern Burger",
+        "ingredients": "Spare Ribs,Cheese,Pickles,Bacon,Honey Mustard Sauce,Onions",
+        "imageName": "BurgerResources/sw_burger.jpg",
+        "thumbnailName": "BurgerResources/thumbnail_sw_burger.jpg",
+        "type": "meat"
+    },
+    {
+        "name": "Sir Camembert",
+        "ingredients": "Camembert,Bacon,Tomatoes,Cucumber,Bacon,BBQ Sauce,Cheddar Cheese",
+        "imageName": "BurgerResources/sir_camembert_burger.jpg",
+        "thumbnailName": "BurgerResources/thumbnail_sir_camembert_burger.jpg",
+        "type": "meat"
+    },
+    {
+        "name": "Austrian Pretzel Burger",
+        "ingredients": "Pretzel Bun,Pickles,Scrambled Eggs,Parsley,Roasted Onions",
+        "imageName": "BurgerResources/austrian_pretzel_burger.jpg",
+        "thumbnailName": "BurgerResources/thumbnail_austrian_pretzel_burger.jpg",
+        "type": "meat"
+    },
+    {
+        "name": "Swiss Doubledecker Burger",
+        "ingredients": "Swiss Cheese,Pickles,Lettuce,Mayonnaise,Hash Brown,Cucumber",
+        "imageName": "BurgerResources/double_decker_burger.jpg",
+        "thumbnailName": "BurgerResources/thumbnail_double_decker_burger.jpg",
+        "type": "meat"
+    }
+]
